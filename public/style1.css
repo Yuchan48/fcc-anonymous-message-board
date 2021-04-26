@@ -3,16 +3,14 @@
   padding: 0px;
 }
 
-
 body {
   padding: 10px;
-  position: relative; 
-  
+  position: relative;
 }
 
-body::before{
-  content: ""; 
-  background-image: url("https://cdn.glitch.com/f7a8fa5e-d452-4de9-93ed-1858611fb88d%2Fccf13391-7d5d-41d9-89ab-28be87cb4f92.image.png?v=1619379995692");  
+body::before {
+  content: "";
+  background-image: url("https://cdn.glitch.com/f7a8fa5e-d452-4de9-93ed-1858611fb88d%2Fccf13391-7d5d-41d9-89ab-28be87cb4f92.image.png?v=1619379995692");
   background-repeat: repeat;
   opacity: 0.5;
   top: 0;
